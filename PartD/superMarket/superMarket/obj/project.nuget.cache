@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3L797wkG3dc=",
+  "dgSpecHash": "5X2VgvoBQNw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\noaa2\\OneDrive\\שולחן העבודה\\מטלת בית הדסים\\superMarket\\superMarket\\superMarket.csproj",
+  "projectFilePath": "C:\\Users\\noaa2\\OneDrive\\שולחן העבודה\\מטלת בית הדסים\\hadasim_final\\PartD\\superMarket\\superMarket\\superMarket.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\noaa2\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\noaa2\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

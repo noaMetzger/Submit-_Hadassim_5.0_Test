@@ -26,19 +26,6 @@ namespace Mock
             optionsBuilder.UseSqlServer("server=NOA;database=SuperMarket;trusted_connection=true;TrustServerCertificate=true");
         }
 
-        //protected override void OnModelCreating(ModelBuilder modelBuilder)
-        //{
-        //    modelBuilder.Entity<ProductOrder>()
-        //        .HasOne(po => po.Stock)
-        //        .WithMany()
-        //        .HasForeignKey(po => po.StockId)
-        //        .OnDelete(DeleteBehavior.Restrict); // מניעת מחיקת cascade עבור Stock
-
-        //    modelBuilder.Entity<ProductOrder>()
-        //        .HasOne(po => po.Order)
-        //        .WithMany(o => o.Products)
-        //        .HasForeignKey(po => po.OrderId)
-        //        .OnDelete(DeleteBehavior.Cascade); // מחיקת cascade עבור Order
-        //}
+   
     }
 }

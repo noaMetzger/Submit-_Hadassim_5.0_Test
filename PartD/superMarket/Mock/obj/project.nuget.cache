@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HZyuRje5eLY=",
+  "dgSpecHash": "xKEnDgR0QTw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\noaa2\\OneDrive\\שולחן העבודה\\מטלת בית הדסים\\superMarket\\Mock\\Mock.csproj",
+  "projectFilePath": "C:\\Users\\noaa2\\OneDrive\\שולחן העבודה\\מטלת בית הדסים\\hadasim_final\\PartD\\superMarket\\Mock\\Mock.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\noaa2\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\noaa2\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

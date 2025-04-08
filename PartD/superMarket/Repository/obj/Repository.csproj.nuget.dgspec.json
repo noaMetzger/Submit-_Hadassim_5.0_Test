@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\noaa2\\OneDrive\\שולחן העבודה\\מטלת בית הדסים\\superMarket\\Repository\\Repository.csproj": {}
+    "C:\\Users\\noaa2\\OneDrive\\שולחן העבודה\\מטלת בית הדסים\\hadasim_final\\PartD\\superMarket\\Repository\\Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\noaa2\\OneDrive\\שולחן העבודה\\מטלת בית הדסים\\superMarket\\Repository\\Repository.csproj": {
+    "C:\\Users\\noaa2\\OneDrive\\שולחן העבודה\\מטלת בית הדסים\\hadasim_final\\PartD\\superMarket\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\noaa2\\OneDrive\\שולחן העבודה\\מטלת בית הדסים\\superMarket\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\noaa2\\OneDrive\\שולחן העבודה\\מטלת בית הדסים\\hadasim_final\\PartD\\superMarket\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\noaa2\\OneDrive\\שולחן העבודה\\מטלת בית הדסים\\superMarket\\Repository\\Repository.csproj",
+        "projectPath": "C:\\Users\\noaa2\\OneDrive\\שולחן העבודה\\מטלת בית הדסים\\hadasim_final\\PartD\\superMarket\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\noaa2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\noaa2\\OneDrive\\שולחן העבודה\\מטלת בית הדסים\\superMarket\\Repository\\obj\\",
+        "outputPath": "C:\\Users\\noaa2\\OneDrive\\שולחן העבודה\\מטלת בית הדסים\\hadasim_final\\PartD\\superMarket\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

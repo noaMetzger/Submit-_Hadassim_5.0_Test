@@ -3700,11 +3700,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\noaa2\\OneDrive\\שולחן העבודה\\מטלת בית הדסים\\superMarket\\superMarket\\superMarket.csproj",
+      "projectUniqueName": "C:\\Users\\noaa2\\OneDrive\\שולחן העבודה\\מטלת בית הדסים\\hadasim_final\\PartD\\superMarket\\superMarket\\superMarket.csproj",
       "projectName": "superMarket",
-      "projectPath": "C:\\Users\\noaa2\\OneDrive\\שולחן העבודה\\מטלת בית הדסים\\superMarket\\superMarket\\superMarket.csproj",
+      "projectPath": "C:\\Users\\noaa2\\OneDrive\\שולחן העבודה\\מטלת בית הדסים\\hadasim_final\\PartD\\superMarket\\superMarket\\superMarket.csproj",
       "packagesPath": "C:\\Users\\noaa2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\noaa2\\OneDrive\\שולחן העבודה\\מטלת בית הדסים\\superMarket\\superMarket\\obj\\",
+      "outputPath": "C:\\Users\\noaa2\\OneDrive\\שולחן העבודה\\מטלת בית הדסים\\hadasim_final\\PartD\\superMarket\\superMarket\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3726,11 +3726,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\noaa2\\OneDrive\\שולחן העבודה\\מטלת בית הדסים\\superMarket\\Mock\\Mock.csproj": {
-              "projectPath": "C:\\Users\\noaa2\\OneDrive\\שולחן העבודה\\מטלת בית הדסים\\superMarket\\Mock\\Mock.csproj"
+            "C:\\Users\\noaa2\\OneDrive\\שולחן העבודה\\מטלת בית הדסים\\hadasim_final\\PartD\\superMarket\\Mock\\Mock.csproj": {
+              "projectPath": "C:\\Users\\noaa2\\OneDrive\\שולחן העבודה\\מטלת בית הדסים\\hadasim_final\\PartD\\superMarket\\Mock\\Mock.csproj"
             },
-            "C:\\Users\\noaa2\\OneDrive\\שולחן העבודה\\מטלת בית הדסים\\superMarket\\Service\\Service.csproj": {
-              "projectPath": "C:\\Users\\noaa2\\OneDrive\\שולחן העבודה\\מטלת בית הדסים\\superMarket\\Service\\Service.csproj"
+            "C:\\Users\\noaa2\\OneDrive\\שולחן העבודה\\מטלת בית הדסים\\hadasim_final\\PartD\\superMarket\\Service\\Service.csproj": {
+              "projectPath": "C:\\Users\\noaa2\\OneDrive\\שולחן העבודה\\מטלת בית הדסים\\hadasim_final\\PartD\\superMarket\\Service\\Service.csproj"
             }
           }
         }
